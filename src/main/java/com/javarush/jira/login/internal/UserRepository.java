@@ -2,6 +2,7 @@ package com.javarush.jira.login.internal;
 
 import com.javarush.jira.common.BaseRepository;
 import com.javarush.jira.common.error.NotFoundException;
+import com.javarush.jira.login.AuthUser;
 import com.javarush.jira.login.User;
 import org.springframework.cache.annotation.CacheConfig;
 import org.springframework.cache.annotation.CachePut;
