@@ -32,6 +32,7 @@ spring:
     changeLog: "classpath:db/changelog.sql"
     clear-checksums: true
 
+
   # Jackson Fields Serialization
   jackson:
     visibility:

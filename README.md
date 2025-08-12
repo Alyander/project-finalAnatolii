@@ -30,3 +30,4 @@
 1. Удалить yandex, vk
 2. Винести чувствительную информацию в .properties
 3. Измненение подхода метода com.javarush.jira.bugtracking.attachment.FileUtil#upload на более современный
+4. тест класса ProfileRestControllerTest.java сделан на половину
